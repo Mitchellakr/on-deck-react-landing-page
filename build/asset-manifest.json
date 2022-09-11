@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5ffcf25.css",
+    "main.js": "/static/js/main.258710c4.js",
+    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "static/media/HeroImage.png": "/static/media/HeroImage.06223ac206496e01e5e6.png",
+    "static/media/AlternativeToLogo.svg": "/static/media/AlternativeToLogo.7f874c630a1428352cb9cd4e56b1db63.svg",
+    "static/media/spotifylogo.svg": "/static/media/spotifylogo.4b391b85bdb55bb8c11fad4ba18a4c16.svg",
+    "static/media/logo.svg": "/static/media/logo.f3ef66095c938b927d925d4f1c9f581f.svg",
+    "static/media/walmartlogo.svg": "/static/media/walmartlogo.95c12f7a0d2c7e8091a0ff7d85162f53.svg",
+    "static/media/shopifylogo.svg": "/static/media/shopifylogo.1dcd0dc173105a55eb5971c9fa96c222.svg",
+    "static/media/netflixlogo.svg": "/static/media/netflixlogo.6366facd20bf5a0882050c28aaec7e4d.svg",
+    "index.html": "/index.html",
+    "static/media/CapterraLogo.svg": "/static/media/CapterraLogo.9a6e352cdf0ba71369592254b14b4c3a.svg",
+    "main.c5ffcf25.css.map": "/static/css/main.c5ffcf25.css.map",
+    "main.258710c4.js.map": "/static/js/main.258710c4.js.map",
+    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ffcf25.css",
+    "static/js/main.258710c4.js"
+  ]
+}
